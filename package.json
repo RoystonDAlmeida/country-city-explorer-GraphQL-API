@@ -1,0 +1,17 @@
+{
+  "name": "country_city_explorer",
+  "version": "1.0.0",
+  "description": "GraphQL API project ",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test",
+    "start": "node app.js"
+  },
+  "author": "Royston D'Almeida",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^3.13.0",
+    "dotenv": "^16.5.0",
+    "mongoose": "^8.16.0"
+  }
+}
